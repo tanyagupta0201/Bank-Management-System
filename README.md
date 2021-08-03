@@ -14,12 +14,12 @@ The Bank Management Project in C++ language is created using concepts of Object-
 
 ## Images
   
- <img src = 'img/img01.JPG'>
- <img src = 'img/img02.JPG'>
- <img src = 'img/img03.JPG'>
- <img src = 'img/img04.JPG'>
- <img src = 'img/img05.JPG'>
- <img src = 'img/img06.JPG'>
+ <img src = "img/img01.JPG" width = "510">
+ <img src = "img/img02.JPG" width = "510">
+ <img src = "img/img03.JPG" width = "510">
+ <img src = "img/img04.JPG" width = "510">
+ <img src = "img/img05.JPG" width = "510">
+ <img src = "img/img06.JPG" width = "510">
 
 
 
