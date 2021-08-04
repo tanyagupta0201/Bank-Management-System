@@ -5,6 +5,7 @@ The Bank Management Project in C++ language is a beginner project and is created
 
 * Sign up a new user
 * Login an existing user
+* Creating a new account
 * Enter the data of a existing user
 * Display the details of the user
 * Modify the details of the user
